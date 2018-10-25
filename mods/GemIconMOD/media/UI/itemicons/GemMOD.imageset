@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "GemMOD" Imagefile="media/ui/itemicons/GemMOD.dds" NativeHorzRes="512" NativeVertRes="512" AutoScaled="true" >
+	<Image Name="RedGem01" XPos="0" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem02" XPos="36" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem03" XPos="72" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem04" XPos="108" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem05" XPos="144" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem06" XPos="180" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem07" XPos="216" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem08" XPos="252" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem09" XPos="288" YPos="0" Width="36" Height="36" />
+	<Image Name="RedGem10" XPos="324" YPos="0" Width="36" Height="36" />
+
+	<Image Name="BlueGem01" XPos="0" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem02" XPos="36" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem03" XPos="72" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem04" XPos="108" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem05" XPos="144" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem06" XPos="180" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem07" XPos="216" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem08" XPos="252" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem09" XPos="288" YPos="64" Width="36" Height="36" />
+	<Image Name="BlueGem10" XPos="324" YPos="64" Width="36" Height="36" />
+
+	<Image Name="YellowGem01" XPos="0" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem02" XPos="36" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem03" XPos="72" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem04" XPos="108" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem05" XPos="144" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem06" XPos="180" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem07" XPos="216" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem08" XPos="252" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem09" XPos="288" YPos="128" Width="36" Height="36" />
+	<Image Name="YellowGem10" XPos="324" YPos="128" Width="36" Height="36" />
+
+	<Image Name="PurpleGem01" XPos="0" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem02" XPos="36" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem03" XPos="72" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem04" XPos="108" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem05" XPos="144" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem06" XPos="180" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem07" XPos="216" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem08" XPos="252" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem09" XPos="288" YPos="192" Width="36" Height="36" />
+	<Image Name="PurpleGem10" XPos="324" YPos="192" Width="36" Height="36" />
+
+	<Image Name="GreenGem01" XPos="0" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem02" XPos="36" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem03" XPos="72" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem04" XPos="108" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem05" XPos="144" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem06" XPos="180" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem07" XPos="216" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem08" XPos="252" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem09" XPos="288" YPos="256" Width="36" Height="36" />
+	<Image Name="GreenGem10" XPos="324" YPos="256" Width="36" Height="36" />
+
+	<Image Name="WhiteGem01" XPos="0" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem02" XPos="36" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem03" XPos="72" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem04" XPos="108" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem05" XPos="144" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem06" XPos="180" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem07" XPos="216" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem08" XPos="252" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem09" XPos="288" YPos="320" Width="36" Height="36" />
+	<Image Name="WhiteGem10" XPos="324" YPos="320" Width="36" Height="36" />
+
+	<Image Name="ClearGem01" XPos="0" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem02" XPos="36" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem03" XPos="72" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem04" XPos="108" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem05" XPos="144" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem06" XPos="180" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem07" XPos="216" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem08" XPos="252" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem09" XPos="288" YPos="384" Width="36" Height="36" />
+	<Image Name="ClearGem10" XPos="324" YPos="384" Width="36" Height="36" />
+
+	<Image Name="EyeGem01" XPos="0" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem02" XPos="36" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem03" XPos="72" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem04" XPos="108" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem05" XPos="144" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem06" XPos="180" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem07" XPos="216" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem08" XPos="252" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem09" XPos="288" YPos="448" Width="36" Height="36" />
+	<Image Name="EyeGem10" XPos="324" YPos="448" Width="36" Height="36" />
+
+	<Image Name="SkullGem01" XPos="396" YPos="320" Width="36" Height="36" />
+	<Image Name="SkullGem02" XPos="432" YPos="320" Width="36" Height="36" />
+	<Image Name="SkullGem03" XPos="468" YPos="320" Width="36" Height="36" />
+	<Image Name="SkullGem04" XPos="396" YPos="384" Width="36" Height="36" />
+	<Image Name="SkullGem05" XPos="432" YPos="384" Width="36" Height="36" />
+	<Image Name="SkullGem06" XPos="468" YPos="384" Width="36" Height="36" />
+	<Image Name="SkullGem07" XPos="396" YPos="448" Width="36" Height="36" />
+	<Image Name="SkullGem08" XPos="432" YPos="448" Width="36" Height="36" />
+	<Image Name="SkullGem09" XPos="468" YPos="448" Width="36" Height="36" />
+	<Image Name="SkullGem10" XPos="432" YPos="256" Width="36" Height="36" />
+
+	<Image Name="gem_housing" XPos="396" YPos="0" Width="36" Height="36" />
+	<Image Name="gem_fish_tooth" XPos="396" YPos="64" Width="36" Height="36" />
+	<Image Name="gem_fish_eye" XPos="396" YPos="192" Width="36" Height="36" />
+	<Image Name="gem_fish_scale" XPos="396" YPos="128" Width="36" Height="36" />
+
+	<Image Name="gem_red" XPos="360" YPos="0" Width="36" Height="36" />
+	<Image Name="gem_blue" XPos="360" YPos="64" Width="36" Height="36" />
+	<Image Name="gem_yellow" XPos="360" YPos="128" Width="36" Height="36" />
+	<Image Name="gem_white" XPos="360" YPos="192" Width="36" Height="36" />
+	<Image Name="gem_green" XPos="360" YPos="256" Width="36" Height="36" />
+</Imageset>
